@@ -2,7 +2,6 @@ Description:
 This project is a cloud-deployed web application called "Guess the Capital," where users are asked to guess the capital of a country from four choices. It was developed and deployed using Docker, IBM Cloud, and IBM Code Engine to gain hands-on experience in cloud computing, containerization, and serverless deployment.
 
 Objectives:
-•	Clone the source code.
 
 •	Build and containerize the application using Docker.
 
